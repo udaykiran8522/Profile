@@ -1,0 +1,115 @@
+
+h1 {
+  width : 30%;
+  color:  hsl(300, 43%, 22%);
+  font-weight: 1000px;
+  font-size: 50px;
+  font-family: sans-serif;
+}
+.top-container {
+  width: 100%;
+  padding-top: 100px;
+  padding-left: 65px;
+  display:inline-block;
+}
+
+.ratingblock1 {
+  display: inline-block;
+  position: absolute;
+  right: 350px;
+  top: 140px;
+  background-color: #e8e8e8;
+  margin-bottom: 50px;
+  width: 300px;
+  padding-left: 40px;
+  border-radius: 10px;
+
+}
+.ratingblock2 {
+  display: inline-block;
+  position: absolute;
+  right: 300px;
+  top : 190px;
+  background-color: #e8e8e8;
+  margin-top: 30px;
+  width: 300px;
+  padding-left: 40px;
+  border-radius: 10px;
+
+}
+.ratingblock3 {
+  display: inline-block;
+  position: absolute;
+  right: 285px;
+  top: 240px;
+  background-color: #e8e8e8;
+  margin-top: 60px;
+  width : 300px;
+  padding-left: 40px;
+  border-radius: 10px;
+}
+
+#para {
+  width : 30%;
+  font-family: sans-serif;
+  color: hsl(303, 10%, 53%);
+  position: relative;
+  bottom: 15px;
+  line-height: 1.5;
+  margin-top: 15px;
+}
+.Star {
+  color:  hsl(300, 43%, 22%);
+}
+.review1 {
+  background-color: hsl(300, 43%, 22%);
+  display: inline-block;
+  border-radius: 10px;
+  width : 350px;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+.review2 {
+  background-color: hsl(300, 43%, 22%);
+  display: inline-block;
+  border-radius: 10px;
+  width : 350px;
+  padding-left: 30px;
+  padding-top: 30px;
+  position: relative;
+  top: 40px;
+
+}
+
+.review3 {
+  background-color: hsl(300, 43%, 22%);
+  display: inline-block;
+  border-radius: 10px;
+  width : 350px;
+  padding-left: 30px;
+  padding-top: 30px;
+  position: relative;
+  top: 80px;
+
+
+}
+.Buyer {
+  color: hsl(303, 10%, 53%);
+
+}
+.x {
+  line-height: 1.5;
+  width : 85%;
+  color : grey;
+}
+.Calton {
+  color: white;
+}
+
+.roberts {
+  color : white;
+}
+
+.anne {
+  color: white;
+}
